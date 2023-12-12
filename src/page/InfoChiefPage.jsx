@@ -1,6 +1,6 @@
 import "../style/style_infochiefpage.scss";
 
-const LendingPage = () => {
+const InfoCheifPage = () => {
   return (
     <div className="base">
       <div className="info_сhief"></div>
@@ -8,4 +8,4 @@ const LendingPage = () => {
   );
 };
 
-export default LendingPage;
+export default InfoCheifPage;

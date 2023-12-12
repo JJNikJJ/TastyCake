@@ -1,4 +1,4 @@
-import "./style_navbar.scss";
+import "./style_component/style_navbar.scss";
 import geo from "../media/geoicon.png";
 const NavBar = () => {
   return (

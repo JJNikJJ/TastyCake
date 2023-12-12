@@ -1,11 +1,11 @@
 import "../style/style_orderpage.scss";
 
-const LendingPage = () => {
+const OrderPage = () => {
   return (
-    <div className="base">
-      <div className="order"></div>
+    <div className="order">
+      <></>
     </div>
   );
 };
 
-export default LendingPage;
+export default OrderPage;
